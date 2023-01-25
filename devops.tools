@@ -4,3 +4,5 @@ jenkins
 docker
 terraform
 maven.
+nexus
+sonar
